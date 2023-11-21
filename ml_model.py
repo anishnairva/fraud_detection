@@ -7,6 +7,6 @@ def model2():
     print("adding code for model2")
 
 def model3():
-    print("adding code for model3")
+    10*10
 
 print("Model 2 is performing better and better")
